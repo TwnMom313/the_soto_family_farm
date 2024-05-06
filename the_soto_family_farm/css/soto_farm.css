@@ -1,0 +1,31 @@
+/*STYLE SHEET FOR soto_farm.HTML*/
+
+nav {		
+    float: left;	
+    text-align: center; 
+    color: black; 
+    font-size: 30px; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    text-decoration: underline; 
+    background-color: #FF9999;
+
+}
+
+table {
+  float:calc(center);
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-content: center;
+  }
+ 
+  td {
+    text-align: left;
+    padding: 8px;
+  }
+
+form {
+    float:calc(center);
+    font-size: 32px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+
